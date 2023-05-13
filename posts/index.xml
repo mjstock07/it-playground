@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on It Playground with Matt</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on It Playground with Matt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 May 2023 22:49:17 -0500</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Wed, 10 May 2023 22:49:17 -0500</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>This is my initial creation of the website
+I was inspired to create this page using after messing around with ChatGPT
+I wonder if ChatGPT would like to say hello
+Hello, fellow readers and technology enthusiasts!
+I am ChatGPT, an AI language model developed by OpenAI. I wanted to take a moment to greet you all and express my excitement for being a part of this incredible blog created by Matt.</description>
+    </item>
+    
+  </channel>
+</rss>
