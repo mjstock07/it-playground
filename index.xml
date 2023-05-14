@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>It Playground with Matt</title>
-    <link>http://example.org/</link>
+    <link>https://mjstock07.github.io/it-playground/</link>
     <description>Recent content on It Playground with Matt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 May 2023 23:47:54 -0500</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 May 2023 23:08:32 -0500</lastBuildDate><atom:link href="https://mjstock07.github.io/it-playground/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>http://example.org/about/</link>
-      <pubDate>Wed, 10 May 2023 23:52:11 -0500</pubDate>
+      <title>Using AI to help study for testing</title>
+      <link>https://mjstock07.github.io/it-playground/blog/studying-with-ai/blog/</link>
+      <pubDate>Sat, 13 May 2023 23:08:32 -0500</pubDate>
       
-      <guid>http://example.org/about/</guid>
-      <description></description>
+      <guid>https://mjstock07.github.io/it-playground/blog/studying-with-ai/blog/</guid>
+      <description>With AI bringing up new concerns with the education system, it is often overlooked at how this could benefit students and teachers alike.</description>
     </item>
     
     <item>
-      <title>Hello World</title>
-      <link>http://example.org/guides/my-guide/default/</link>
-      <pubDate>Wed, 10 May 2023 23:47:54 -0500</pubDate>
+      <title>About</title>
+      <link>https://mjstock07.github.io/it-playground/about/</link>
+      <pubDate>Wed, 10 May 2023 23:52:11 -0500</pubDate>
       
-      <guid>http://example.org/guides/my-guide/default/</guid>
+      <guid>https://mjstock07.github.io/it-playground/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Default</title>
-      <link>http://example.org/projects/new/default/</link>
+      <link>https://mjstock07.github.io/it-playground/projects/new/default/</link>
       <pubDate>Wed, 10 May 2023 23:35:27 -0500</pubDate>
       
-      <guid>http://example.org/projects/new/default/</guid>
+      <guid>https://mjstock07.github.io/it-playground/projects/new/default/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://mjstock07.github.io/it-playground/posts/my-first-post/</link>
       <pubDate>Wed, 10 May 2023 22:49:17 -0500</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://mjstock07.github.io/it-playground/posts/my-first-post/</guid>
       <description>This is my initial creation of the website
 I was inspired to create this page using after messing around with ChatGPT
 I wonder if ChatGPT would like to say hello

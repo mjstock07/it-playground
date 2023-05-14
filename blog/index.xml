@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on It Playground with Matt</title>
+    <link>https://mjstock07.github.io/it-playground/blog/</link>
+    <description>Recent content in Blogs on It Playground with Matt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 May 2023 23:08:32 -0500</lastBuildDate><atom:link href="https://mjstock07.github.io/it-playground/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using AI to help study for testing</title>
+      <link>https://mjstock07.github.io/it-playground/blog/studying-with-ai/blog/</link>
+      <pubDate>Sat, 13 May 2023 23:08:32 -0500</pubDate>
+      
+      <guid>https://mjstock07.github.io/it-playground/blog/studying-with-ai/blog/</guid>
+      <description>With AI bringing up new concerns with the education system, it is often overlooked at how this could benefit students and teachers alike.</description>
+    </item>
+    
+  </channel>
+</rss>

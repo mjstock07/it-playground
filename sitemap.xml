@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://mjstock07.github.io/it-playground/blog/</loc>
+    <lastmod>2023-05-13T23:08:32-05:00</lastmod>
+  </url><url>
+    <loc>https://mjstock07.github.io/it-playground/</loc>
+    <lastmod>2023-05-13T23:08:32-05:00</lastmod>
+  </url><url>
+    <loc>https://mjstock07.github.io/it-playground/blog/studying-with-ai/blog/</loc>
+    <lastmod>2023-05-13T23:08:32-05:00</lastmod>
+  </url><url>
+    <loc>https://mjstock07.github.io/it-playground/about/</loc>
     <lastmod>2023-05-10T23:52:11-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/guides/</loc>
-    <lastmod>2023-05-10T23:47:54-05:00</lastmod>
-  </url><url>
-    <loc>http://example.org/guides/my-guide/default/</loc>
-    <lastmod>2023-05-10T23:47:54-05:00</lastmod>
-  </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2023-05-10T23:47:54-05:00</lastmod>
-  </url><url>
-    <loc>http://example.org/projects/new/default/</loc>
+    <loc>https://mjstock07.github.io/it-playground/projects/new/default/</loc>
     <lastmod>2023-05-10T23:35:27-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/projects/</loc>
+    <loc>https://mjstock07.github.io/it-playground/projects/</loc>
     <lastmod>2023-05-10T23:35:27-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>https://mjstock07.github.io/it-playground/posts/my-first-post/</loc>
     <lastmod>2023-05-10T22:49:17-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://mjstock07.github.io/it-playground/posts/</loc>
     <lastmod>2023-05-10T22:49:17-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://mjstock07.github.io/it-playground/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://mjstock07.github.io/it-playground/tags/</loc>
   </url>
 </urlset>
